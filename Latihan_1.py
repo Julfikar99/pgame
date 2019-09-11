@@ -3,6 +3,8 @@ import pygame, sys
 from pygame.locals import *
 
 
+# Latihan untuk pemrograman game
+# untuk kelas semester VII InfoUMMU
 
 pygame.init()
 
