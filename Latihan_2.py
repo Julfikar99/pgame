@@ -9,3 +9,4 @@ print (" Halo Pemrograman Game, aku datang...")
 print (" Nama MK  : %s " % mata_kuliah)
 print (" Semester : %s " % semester)
 
+
