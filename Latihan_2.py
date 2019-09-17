@@ -6,5 +6,6 @@ mata_kuliah = "Pemrograman Game"
 semester = "Semester Tujuh"
 print (" Halo PyGame, ini Latihan 2...")
 print (" Halo Pemrograman Game, aku datang...")
-print (" Nama MK : %s " % mata_kuliah)
+print (" Nama MK  : %s " % mata_kuliah)
 print (" Semester : %s " % semester)
+
