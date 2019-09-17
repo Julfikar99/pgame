@@ -8,4 +8,7 @@ print (" Halo PyGame, ini Latihan 2...")
 print (" Halo Pemrograman Game, aku datang...")
 print (" Nama MK  : %s " % mata_kuliah)
 print (" Semester : %s " % semester)
+# Cetak Kelipatan Variabel :
+print ("="*30)
+print (" MK : %s \n" % mata_kuliah*5)
 
