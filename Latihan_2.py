@@ -11,4 +11,4 @@ print (" Semester : %s " % semester)
 # Cetak Kelipatan Variabel :
 print ("="*30)
 print (" MK : %s \n" % mata_kuliah*5)
-
+print ("*"*30)
